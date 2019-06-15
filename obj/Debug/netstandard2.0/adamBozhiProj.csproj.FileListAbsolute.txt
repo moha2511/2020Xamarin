@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\bin\Debug\netstandard2.0\adamBozhiProj.deps.json
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\bin\Debug\netstandard2.0\adamBozhiProj.dll
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\bin\Debug\netstandard2.0\adamBozhiProj.pdb
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.dll
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\adamBozhiProj.pdb
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\Views\attendPage.xaml.g.cs
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\Views\EventListPage.xaml.g.cs
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\ASUS\source\repos\adamBozhiProj\adamBozhiProj\adamBozhiProj\obj\Debug\netstandard2.0\Views\MapsPage.xaml.g.cs

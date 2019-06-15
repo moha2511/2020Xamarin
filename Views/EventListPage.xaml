@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:syncfusion="clr-namespace:Syncfusion.XForms.Expander;assembly=Syncfusion.Expander.XForms"
+             x:Class="adamBozhiProj.EventListPage">
+    <ContentPage.Content>
+
+
+
+        <ListView x:Name="listView" HasUnevenRows="True" ItemSelected="ListView_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame>
+                            <StackLayout>
+                                <StackLayout>
+                                    <Image Aspect="AspectFit" Source="{Binding imagePath}"></Image>
+
+                                    <syncfusion:SfExpander>
+                                        <syncfusion:SfExpander.Header>
+                                            <Label TextColor="#495F6E" Text="{Binding name}" VerticalTextAlignment="Center" />
+                                        </syncfusion:SfExpander.Header>
+                                        <syncfusion:SfExpander.Content>
+                                            <Grid BackgroundColor="#FFFFFF">
+
+                                                <Label Text="{Binding description}"
+                                  HorizontalOptions="Start"/>
+
+                                            </Grid>
+                                        </syncfusion:SfExpander.Content>
+                                    </syncfusion:SfExpander>
+
+                                    <StackLayout >
+
+                                        <Label Text="{Binding cost}" Grid.Column="1" VerticalOptions="Start" VerticalTextAlignment="Start" />
+
+                                        <Label Text="{Binding startTime}" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" />
+
+                                        <Label Text="{Binding endTime}" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" />
+
+                                        <Label Text="{Binding address.line}" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" />
+
+                                        <Label Text="{Binding address.city}" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" />
+                                    </StackLayout>
+                                </StackLayout>
+
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
